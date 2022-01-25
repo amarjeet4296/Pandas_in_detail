@@ -1,7 +1,7 @@
 # Pandas_in_detail
 As you know pandas is used for data analysis in most of the cases and also it is one of the most used Python Libraries for Data Science.
 
-**Pandas Philosophy**{https://tomaugspurger.github.io/pandas-moral-philosophy.html} : There should be one and preferably only one obvious way to do it.
+[**Pandas Philosophy**](https://tomaugspurger.github.io/pandas-moral-philosophy.html) : There should be one and preferably only one obvious way to do it.
 
 How to write good code called *The Zen of Python* 
 

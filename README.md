@@ -3,7 +3,7 @@ As you know pandas is used for data analysis in most of the cases and also it is
 
 [**Pandas Philosophy**](https://tomaugspurger.github.io/pandas-moral-philosophy.html) : There should be one and preferably only one obvious way to do it.
 
-How to write good code called *The Zen of Python* 
+How to write good code called [*The Zen of Python*](https://www.python.org/dev/peps/pep-0020/)
 
 **What is Pandas**
 

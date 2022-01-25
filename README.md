@@ -12,3 +12,6 @@ How to write good code called [*The Zen of Python*](https://www.python.org/dev/p
 **Pandas is built on NumPy and Matplotlib**
 
 ### Why and where should we use pandas?
+Why: Pandas is built on top of the other python libraries, and part of it its implemented in C, giving it an extra speed boost.
+
+Where: If you're facing any projects that involves data, you are going to want to use pandas.
